@@ -1,4 +1,4 @@
-# Git Assignment - jeffey97
+Git Assignment - jeffey97
 
 a.What is an issue?
 An issue is a way to track tasks, enhancements, bugs, or feature requests in a repository.
